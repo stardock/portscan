@@ -32,3 +32,5 @@ echo "scan all ip port ok!"
 附上linux扫描结果图  
 
 我然后利用扫描出来的文件，进行批量筛选出IP、Port、状态、服务 合成一个文件，然后统计excel文档就很快速了:)  
+
+Ref: https://www.yuanmas.com/info/x5aYJ90ByD.html  
